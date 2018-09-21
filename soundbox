@@ -1,0 +1,17 @@
+#!/bin/sh
+#/etc/init.d/soundbox
+export PATH=$PATH:/usr/local/bin
+
+case "$1" in
+start)
+exec forever start --id "soundbox" --sourceDir /home/pi/Documents/SoundBox --minUptime 1000 --spinSleepTime 1000 -o /home/pi/Documents/SoundBox/output.txt -l /home/pi/Documents/SoundBox/forever.txt -a soundbox.js
+;;
+stop)
+exec forever stop soundbox
+;;
+*)
+echo "Usage: /etc/init.d/soundbox {start|stop}"
+exit 1
+;;
+esac
+exit 0

@@ -1,0 +1,177 @@
+-- system started
+-- fileupdate
+Downloaded Andreia.wav
+Downloaded Michael.wav
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_female_2.wav
+[ 'rec_lib/stories/agi.wav',
+  'rec_lib/stories/Christine_01.1.wav',
+  'rec_lib/stories/Ju2.wav',
+  'rec_lib/stories/Andrea.wav',
+  'rec_lib/stories/Marek_01.wav',
+  'rec_lib/stories/Christine_01.2.wav',
+  'rec_lib/stories/Miguel_11.wav' ]
+1 '-- play' 'rec_lib/stories/agi.wav'
+2 '-- play' 'rec_lib/stories/Christine_01.1.wav'
+3 '-- play' 'rec_lib/stories/Ju2.wav'
+-- stop sequence
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_male_2.wav
+[ 'rec_lib/stories/Therese_09.wav',
+  'rec_lib/stories/Jacob_01.wav',
+  'rec_lib/stories/Victoria_01.wav',
+  'rec_lib/stories/Nicola_2.wav',
+  'rec_lib/stories/Pascal_01.wav',
+  'rec_lib/stories/Anne_Sophie_01.wav' ]
+1 '-- play' 'rec_lib/stories/Therese_09.wav'
+2 '-- play' 'rec_lib/stories/Jacob_01.wav'
+3 '-- play' 'rec_lib/stories/Victoria_01.wav'
+4 '-- play' 'rec_lib/stories/Nicola_2.wav'
+-- stop sequence
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_male_2.wav
+[ 'rec_lib/stories/Sandra_01.wav',
+  'rec_lib/stories/Miguel_11.wav',
+  'rec_lib/stories/Miguel_07.wav',
+  'rec_lib/stories/Christine_04.wav',
+  'rec_lib/stories/Anne_Sophie_01.wav',
+  'rec_lib/stories/nick_01.wav' ]
+1 '-- play' 'rec_lib/stories/Sandra_01.wav'
+-- fileupdate
+Downloaded Michael.wav
+-- stop sequence
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_female_2.wav
+[ 'rec_lib/stories/Marek_04.wav',
+  'rec_lib/stories/Sandra_01.wav',
+  'rec_lib/stories/agi.wav',
+  'rec_lib/stories/Miguel_08.wav',
+  'rec_lib/stories/Miguel_13.wav',
+  'rec_lib/stories/nick_01.wav',
+  'rec_lib/stories/Therese_11.wav' ]
+1 '-- play' 'rec_lib/stories/Marek_04.wav'
+2 '-- play' 'rec_lib/stories/Sandra_01.wav'
+3 '-- play' 'rec_lib/stories/agi.wav'
+-- stop sequence
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_male_1.wav
+[ 'rec_lib/stories/Andreia.wav',
+  'rec_lib/stories/Christine_03.wav',
+  'rec_lib/stories/Ibrahim_01.wav',
+  'rec_lib/stories/Miguel_01.wav',
+  'rec_lib/stories/Nicola_3.wav',
+  'rec_lib/stories/Marek_01.wav',
+  'rec_lib/stories/Nicola_2.wav' ]
+1 '-- play' 'rec_lib/stories/Andreia.wav'
+2 '-- play' 'rec_lib/stories/Christine_03.wav'
+3 '-- play' 'rec_lib/stories/Ibrahim_01.wav'
+4 '-- play' 'rec_lib/stories/Miguel_01.wav'
+-- stop sequence
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_female_2.wav
+[ 'rec_lib/stories/José.wav',
+  'rec_lib/stories/Tobias.wav',
+  'rec_lib/stories/Christine_01.1.wav',
+  'rec_lib/stories/Victoria_01.wav',
+  'rec_lib/stories/Nicola_1.wav',
+  'rec_lib/stories/Ju2.wav',
+  'rec_lib/stories/agi.wav' ]
+1 '-- play' 'rec_lib/stories/José.wav'
+-- fileupdate
+-- stop sequence
+Downloaded Michael.wav
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_female_1.wav
+[ 'rec_lib/stories/Miguel_06.wav',
+  'rec_lib/stories/Victoria_01.wav',
+  'rec_lib/stories/Christine_04.wav',
+  'rec_lib/stories/livia_01.wav',
+  'rec_lib/stories/Marek_03.wav',
+  'rec_lib/stories/Tobias.wav' ]
+1 '-- play' 'rec_lib/stories/Miguel_06.wav'
+2 '-- play' 'rec_lib/stories/Victoria_01.wav'
+-- stop sequence
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_male_1.wav
+[ 'rec_lib/stories/Nicola_1.wav',
+  'rec_lib/stories/Pascal_01.wav',
+  'rec_lib/stories/Christine_04.wav',
+  'rec_lib/stories/Sandra_02.wav',
+  'rec_lib/stories/Christine_01.2.wav' ]
+1 '-- play' 'rec_lib/stories/Nicola_1.wav'
+2 '-- play' 'rec_lib/stories/Pascal_01.wav'
+3 '-- play' 'rec_lib/stories/Christine_04.wav'
+4 '-- play' 'rec_lib/stories/Sandra_02.wav'
+-- stop sequence
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_male_2.wav
+[ 'rec_lib/stories/José.wav',
+  'rec_lib/stories/Cyrill_02.wav',
+  'rec_lib/stories/Tobias.wav',
+  'rec_lib/stories/Gabriel.wav',
+  'rec_lib/stories/Alex_01.wav',
+  'rec_lib/stories/Therese_09.wav' ]
+1 '-- play' 'rec_lib/stories/José.wav'
+2 '-- play' 'rec_lib/stories/Cyrill_02.wav'
+3 '-- play' 'rec_lib/stories/Tobias.wav'
+4 '-- play' 'rec_lib/stories/Gabriel.wav'
+5 '-- play' 'rec_lib/stories/Alex_01.wav'
+6 '-- play' 'rec_lib/stories/Therese_09.wav'
+-- stop sequence
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_male_1.wav
+[ 'rec_lib/stories/Cyrill_03.wav',
+  'rec_lib/stories/Miguel_04.wav',
+  'rec_lib/stories/Marek_07.wav',
+  'rec_lib/stories/Sabine_3.wav',
+  'rec_lib/stories/nick_01.wav' ]
+1 '-- play' 'rec_lib/stories/Cyrill_03.wav'
+-- fileupdate
+Downloaded Michael.wav
+2 '-- play' 'rec_lib/stories/Miguel_04.wav'
+3 '-- play' 'rec_lib/stories/Marek_07.wav'
+-- stop sequence
+-- play LURE rec_lib/lure/lure_male_1.wav
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_male_2.wav
+[ 'rec_lib/stories/Miguel_06.wav',
+  'rec_lib/stories/Anne_Sophie_01.wav',
+  'rec_lib/stories/Lilla.wav',
+  'rec_lib/stories/Marek_07.wav',
+  'rec_lib/stories/Therese_06.wav',
+  'rec_lib/stories/Nicola_3.wav' ]
+1 '-- play' 'rec_lib/stories/Miguel_06.wav'
+-- stop sequence
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_male_2.wav
+[ 'rec_lib/stories/Marek_02.wav',
+  'rec_lib/stories/Miguel_12.wav',
+  'rec_lib/stories/Miguel_05.wav',
+  'rec_lib/stories/Therese_08.wav',
+  'rec_lib/stories/Michael.wav' ]
+1 '-- play' 'rec_lib/stories/Marek_02.wav'
+-- stop sequence
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_male_2.wav
+[ 'rec_lib/stories/Marek_03.wav',
+  'rec_lib/stories/Pascal_01.wav',
+  'rec_lib/stories/Therese_08.wav',
+  'rec_lib/stories/Alex_02.wav',
+  'rec_lib/stories/Tim.wav' ]
+1 '-- play' 'rec_lib/stories/Marek_03.wav'
+2 '-- play' 'rec_lib/stories/Pascal_01.wav'
+3 '-- play' 'rec_lib/stories/Therese_08.wav'
+4 '-- play' 'rec_lib/stories/Alex_02.wav'
+-- fileupdate
+Downloaded Michael.wav
+-- stop sequence
+-- play LURE rec_lib/lure/lure_male_1.wav
+-- start sequence
+-- play COME_CLOSER rec_lib/come_closer/come_closer_male_2.wav
+[ 'rec_lib/stories/Marek_02.wav',
+  'rec_lib/stories/Marek_04.wav',
+  'rec_lib/stories/Marek_07.wav',
+  'rec_lib/stories/Alex_01.wav',
+  'rec_lib/stories/Christine_03.wav',
+  'rec_lib/stories/Miguel_05.wav' ]
+1 '-- play' 'rec_lib/stories/Marek_02.wav'

@@ -1,0 +1,1 @@
+forever start --sourceDir /home/pi/Documents/SoundBox --minUptime 1000 --spinSleepTime 1000 -o /home/pi/Documents/SoundBox/output.txt -l /home/pi/Documents/SoundBox/forever.txt -a soundbox.js
